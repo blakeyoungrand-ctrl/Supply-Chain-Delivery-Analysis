@@ -4,7 +4,7 @@
 
 SQL and Excel analysis of 180,519 order lines (65,752 orders) from the [DataCo Smart Supply Chain dataset](https://www.kaggle.com/) on Kaggle.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Key findings
 
